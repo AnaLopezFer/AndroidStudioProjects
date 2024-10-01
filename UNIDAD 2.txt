@@ -1,0 +1,14 @@
+Cómo escribir condicionales en Kotlin: 
+1) https://pl.kotl.in/ofObGUOTo
+2) https://pl.kotl.in/RATsvqiEV
+3) https://pl.kotl.in/akCCSV9Ow
+
+Usa Nulabilidad en Kotlin
+1)https://pl.kotl.in/UB-YbBgM6
+2) https://pl.kotl.in/OI3o4bsOC
+
+Define metodos y clases: 
+1) https://pl.kotl.in/B6AidB7XH
+2) https://pl.kotl.in/9ayv--QYA
+3) https://pl.kotl.in/pMv2_DAew
+4) https://pl.kotl.in/ef668Cg8g
